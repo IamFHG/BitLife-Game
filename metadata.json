@@ -1,0 +1,6 @@
+{
+  "name": "LifeSim BitLife",
+  "description": "A BitLife-inspired life simulator game featuring resource management, complex character relationships, career paths, assets, random turn-based events, and AI dynamic choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
